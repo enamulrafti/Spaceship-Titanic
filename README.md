@@ -4,6 +4,10 @@ Predict which passengers are transported to an alternate dimension
 #### Contest details: https://www.kaggle.com/competitions/spaceship-titanic
 ***
 ### Used: SVM (support vector machine)
-### Score: 0.77741
-### Leaderboard: 1711
+### Score
+* SVM: : 0.77741 
+* XGBoost: 0.78372
+### Leaderboard: 
+* 1711 (SVM)
+* 1567 (XGBoost)
 ### Visit: https://www.kaggle.com/ghostfury 
